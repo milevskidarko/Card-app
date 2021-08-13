@@ -1,0 +1,58 @@
+[
+  {
+    "cardName": "Card 1",
+    "cardImage": "building",
+    "buttonLink": "Button Link",
+    "location": "Skopje",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 2",
+    "cardImage": "images2",
+    "buttonLink": "Button Link",
+    "location": "Tetovo",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 3",
+    "cardImage": "images3",
+    "buttonLink": "Button Link",
+    "location": "Gostivar",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 4",
+    "cardImage": "images4",
+    "buttonLink": "Button Link",
+    "location": "Ohrid",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 5",
+    "cardImage": "images5",
+    "buttonLink": "Button Link",
+    "location": "Struga",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 6",
+    "cardImage": "images6",
+    "buttonLink": "Button Link",
+    "location": "Bitola",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 7",
+    "cardImage": "images7",
+    "buttonLink": "Button Link",
+    "location": "Resen",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  },
+  {
+    "cardName": "Card 8",
+    "cardImage": "images8",
+    "buttonLink": "Button Link",
+    "location": "Dojran",
+    "tag": [{ "tag": "Tag1" }, { "tag": "Tag2" }, { "tag": "Tag3" }]
+  }
+]

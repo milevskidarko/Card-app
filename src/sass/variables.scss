@@ -1,0 +1,37 @@
+// COLOR
+
+/* Font Colors */
+
+$color-font: #586371;
+$color-font-light: #b0bbbd;
+$color-font-dark: #000;
+$color-font-white: #fff;
+$color-font-purple: rgb(227, 129, 243);
+$color-font-purple-light: rgb(217, 214, 241);
+
+// SIZE
+
+/* Radiuses */
+
+$size-border-radius: 0.75rem;
+
+/* Shadows */
+
+$size-shadow-content-box: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+$size-shadow-content-box-hover: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+
+/* Font Sizes */
+
+$size-font: 0.75rem;
+$size-font-xs: 0.8125rem;
+$size-font-s: 0.875rem;
+$size-font-m: 1.125rem;
+$size-font-l: 1.5rem;
+$size-font-xl: 2.5rem;
+$size-font-xxl: 3rem;
+
+
+/* Breakpoints */
+
+$breakpoint-mobile: 425px;
+$breakpoint-tablet: 768px;
